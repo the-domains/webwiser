@@ -1,17 +1,17 @@
-typography_spectrum: 0.15102211036719382
+layout_spectrum: 0.15623129361244564
+typography_spectrum: 0.20355693860680307
 color:
-  brandStrength: 0.8985950143542141
-  lightness: 0.620819932082668
-  saturation: 0.615433149272576
-  rhythmicContrast: 0.42308677663095295
+  brandStrength: 0.10981171174657227
+  lightness: 0.4321618478309068
+  saturation: 0.7509392196736714
+  rhythmicContrast: 0.3288840300438575
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
 github: true
-layout_spectrum: 0.2757658362388611
 author:
   name: Sage Pintor
   email: sagepintor@gmail.com
