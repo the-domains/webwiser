@@ -19,3 +19,7 @@ name: WebWiser
 title: Web Wiser
 content: []
 description: We want to help you Web Wiser
+purpose:
+  - type: contact
+    url: 'mailto:sagepintor@gmail.com'
+    label: Contact me
