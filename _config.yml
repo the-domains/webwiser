@@ -1,0 +1,21 @@
+typography_spectrum: 0.15102211036719382
+color:
+  brandStrength: 0.8985950143542141
+  lightness: 0.620819932082668
+  saturation: 0.615433149272576
+  rhythmicContrast: 0.42308677663095295
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+layout_spectrum: 0.2757658362388611
+author:
+  name: Sage Pintor
+  email: sagepintor@gmail.com
+name: WebWiser
+title: Web Wiser
+content: []
+description: We want to help you Web Wiser
