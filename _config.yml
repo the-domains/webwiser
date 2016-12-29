@@ -1,4 +1,3 @@
-layout_spectrum: 0.15623129361244564
 typography_spectrum: 0.20355693860680307
 color:
   brandStrength: 0.10981171174657227
@@ -12,6 +11,7 @@ color:
     - '#4A1A2C'
     - '#8E3557'
 github: true
+layout_spectrum: 0.15623129361244564
 author:
   name: Sage Pintor
   email: sagepintor@gmail.com
@@ -22,4 +22,4 @@ description: We want to help you Web Wiser
 purpose:
   - type: contact
     url: 'mailto:sagepintor@gmail.com'
-    label: Contact me
+    label: Contact Us
